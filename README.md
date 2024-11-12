@@ -1,5 +1,8 @@
 # Managing Multiple GitHub Accounts on Mac and Ubuntu
 
+![git](https://github.com/user-attachments/assets/5e7d5876-7a0c-4e39-80ef-2bf4663fc520)
+
+
 This guide walks you through configuring and managing multiple GitHub accounts on a Mac or Ubuntu system. It’s suitable for users needing separate SSH keys for personal and work-related GitHub repositories. 
 
 ## Prerequisites
